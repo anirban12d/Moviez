@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import React from "react";
@@ -62,6 +63,7 @@ export default function Cast({ data, loading }) {
                     <img
                       src={imgUrl}
                       className="w-full h-full object-cover object-center block"
+                      alt=""
                     />
                   </div>
                   <div className="text-[14px] leading-[20px] font-semibold md:text-[18px] md:leading-[24px]">

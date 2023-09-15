@@ -6,10 +6,10 @@ import Header from '../components/header/header'
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Moviez",
-  description: "Get the details of latest movies and tv shows",
-};
+// export const metadata = {
+//   title: "Moviez",
+//   description: "Get the details of latest movies and tv shows",
+// };
 
 export default function RootLayout({ children }) {
 
