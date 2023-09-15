@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "Herobanner",
+        "jusfity",
+        "sortby"
+    ],
+    "files.associations": {
+        "*.scss": "tailwindcss",
+        "*.css": "tailwindcss"
+      },
+}
